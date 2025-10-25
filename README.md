@@ -22,7 +22,7 @@ Comet的主要卖点是为那些对互联网充满好奇心的人打造。Perple
 
 浏览器默认使用Perplexity的AI助手作为搜索引擎,当然你也可以轻松切换到Google、Bing或其他选项。但很明显,他们的目标是把尽可能多的用户拉进Perplexity的生态系统。
 
-![Comet浏览器界面展示查找伦敦塔路线功能](image/795830928097.webp)
+<img width="1832" height="1030" alt="image" src="https://github.com/user-attachments/assets/d01a8004-c0ed-4956-9004-00e10df40331" />
 
 一款围绕AI构建的浏览器听起来很诱人,但有一个重大问题需要警惕:隐私。
 
